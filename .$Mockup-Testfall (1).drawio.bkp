@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.8">
+  <diagram name="Seite-1" id="KAEdtc_36hRH_wU0g6o0">
+    <mxGraphModel dx="1034" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BRSKcqxSPPUON-szrqHW-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="154" y="10" width="520" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="BRSKcqxSPPUON-szrqHW-3" value="Testfälle" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="170" y="30" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BRSKcqxSPPUON-szrqHW-4" value="Testfall hinzufügen" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="560" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BRSKcqxSPPUON-szrqHW-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="204" y="120" width="420" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="BRSKcqxSPPUON-szrqHW-7" value="Titel" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="210" y="201" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BRSKcqxSPPUON-szrqHW-8" value="Text eingabe" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="210" y="221" width="290" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="BRSKcqxSPPUON-szrqHW-9" value="Szenario" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="210" y="261" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BRSKcqxSPPUON-szrqHW-10" value="Text eingabe" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="210" y="281" width="290" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="BRSKcqxSPPUON-szrqHW-12" value="Erwartetes Ergebnis" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="210" y="331" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BRSKcqxSPPUON-szrqHW-13" value="Text eingabe" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="210" y="356" width="290" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="BRSKcqxSPPUON-szrqHW-14" value="Testfall ID" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="210" y="136" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BRSKcqxSPPUON-szrqHW-15" value="TF-001" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="210" y="161" width="290" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
